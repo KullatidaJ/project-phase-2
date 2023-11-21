@@ -187,7 +187,7 @@ step | Test Steps | Test Data | Expexted Result | Actual Result | Status | Comme
 
 
 # UI testing # 
-### Link VDO 
+### Link VDO : https://drive.google.com/file/d/1hVm1Vw4F7fKnjXkS3p_JAPnS4krwVpuj/view?usp=sharing
 
 # Performance testing 
 i. Average-load test
